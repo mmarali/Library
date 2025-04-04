@@ -40,8 +40,20 @@ class Program
                     Library.books.Add(addBooks);
                     break;
                 case 2:
-                    Library.displayBooks();
+                    Library.DisplayBooks();
                     break;
+                case 3:
+                    Console.WriteLine("Enter the title of the book:");
+                    var titleToSearch = Console.ReadLine(); 
+                    Library.SearchBooks(titleToSearch);
+                    break;
+                case 4:
+                    Console.Write("Title to delete: 4");
+                    var bookToDelete = Console.ReadLine();
+                    Library.DeleteBooks(bookToDelete);
+                    Console.WriteLine("Book " + bookToDelete + " has been deleted.");
+                    break;
+                    
                     
                 
             }

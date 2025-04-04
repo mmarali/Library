@@ -12,3 +12,4 @@ C:\Users\alick\Documents\C# project\Biblioteka\Biblioteka\obj\Debug\net9.0\refin
 C:\Users\alick\Documents\C# project\Biblioteka\Biblioteka\obj\Debug\net9.0\Biblioteka.pdb
 C:\Users\alick\Documents\C# project\Biblioteka\Biblioteka\obj\Debug\net9.0\Biblioteka.genruntimeconfig.cache
 C:\Users\alick\Documents\C# project\Biblioteka\Biblioteka\obj\Debug\net9.0\ref\Biblioteka.dll
+C:\Users\alick\Documents\C# project\Biblioteka\Biblioteka\obj\Debug\net9.0\Biblioteka.sourcelink.json
